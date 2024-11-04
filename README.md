@@ -5,4 +5,4 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/waetrmelon/chitenOS)
 ![GitHub contributors](https://img.shields.io/github/contributors/waetrmelon/chitenOS)
 
-**SparkOS** is a hobbyist operating system, created in my sparetime.
+**SparkOS** is a hobbyist operating system, developed in my sparetime.
