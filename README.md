@@ -6,3 +6,5 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/waetrmelon/SparkOS)
 
 **SparkOS** is a hobbyist operating system, developed in my sparetime.
+**But Why?**
+idk why i do this 2myself
